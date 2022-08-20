@@ -1,0 +1,71 @@
+.App {
+   margin: 20px;
+   overflow: hidden;
+   
+}
+body{
+  background-color: #d3dcf8;
+}
+
+.img{
+  margin-right: 20px;
+height: 40px;
+}
+.img:hover{
+  transform:scale(1.5);
+ 
+}
+h1{
+  color: cornflowerblue;
+  text-shadow: 2px 2px 4px #000000;
+  font-size: 40px;
+}
+h2{
+  color: cornflowerblue;
+  font-size: 30px;
+}
+h2:hover{
+  text-shadow: 1px 1px 2px #000000;}
+p{
+  text-transform: capitalize;
+  font-size: 20px;
+  
+}
+.pic{
+  width: 30%;
+  height: 360px;
+  float: right;
+  top:-40px;
+  left:650px;
+  position: absolute;
+  padding: 90px;
+  margin: 10px;
+  background-color: #d3dcf8;
+}
+.center{
+ text-align: center;
+ justify-content: left;
+}
+.center:hover{
+  color: cornflowerblue;
+ }
+ button{
+  color: cornflowerblue;
+  background-color: azure;
+  padding: 20px;
+  border-radius: 0px 12px 0px 12px;
+  outline: none;
+  border: none;
+  margin: 16px;
+  font-size: 20px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 2px 2px 4px cornflowerblue;
+ }
+ button:hover{
+  color: azure;
+  background-color: cornflowerblue;
+  box-shadow: 2px 2px 4px black;
+ }
+ p{
+  font-size: 25px;
+ }
