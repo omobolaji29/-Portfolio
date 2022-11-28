@@ -21,17 +21,44 @@ function Experience() {
          <button> SCRUM </button>
          <button> BOOTSTRAP </button>
          <button> WORDPRESS</button>
-         <h3 style={{ fontSize:"25px"}}>Primebtyes Solutions(Ottawa Canada): 2021 – (present) </h3>
+<h3 style={{ fontSize:"25px"}}>Primebtyes Solutions(Ottawa Canada): 2021 – (present) </h3>
 <h3>Job title: Web Developer and Scrum Master (remote)</h3>
 <h3>Key Achievements</h3>
-<ul>
-	<li>Maintaining, optimizing, troubleshooting, and improving websites</li>
-	<li>Individually increased the speed to get work done before deadlines.</li>
-	<li> Developed several professional websites for all kinds of businesses </li>
+  <ul>
+    <li>Maintaining, optimizing, troubleshooting, and improving websites</li>
+    <li>Individually increased the speed to get work done before deadlines.</li>
+    <li> Developed several professional websites for all kinds of businesses </li>
     <li>Daily maintenance of code, debugging issues, and solving clients’ problems</li>
-	<li>Used the agile method and processes to coach 4 product owners through complex problem-solving strategies</li>
-	<li>Identifies 10+ complex impediments and assisted the team in identifying the path to deliver on their sprint commitment</li>
-</ul> 
+    <li>Used the agile method and processes to coach 4 product owners through complex problem-solving strategies</li>
+    <li>Identifies 10+ complex impediments and assisted the team in identifying the path to deliver on their sprint commitment</li>
+  </ul> 
+<h3 style={{ fontSize:"25px"}}>Delcoms Technology (Ibadan): November 2021-October 2022</h3>
+<h3>Job title: Front End Developer (NYSC intern)</h3>
+<h3>Key Achievements</h3>
+  <ul>
+    <li>Worked with a senior developer to write code from scratch for clients</li>
+    <li>Developed projects using HTML, CSS, and JavaScript to enhance functionality and user experience on web pages</li>
+    <li>Worked with my fellow junior colleagues to build various front-end projects.</li>
+    <li>Participated in weekly tech team meetings to discuss strategies on how to work effectively</li>
+  </ul>
+<h3 style={{ fontSize:"25px"}}>Home mart (Lagos) 2019 - September 2021 </h3>
+<h3>Job title: customer care officer and social media digital marketer (remote)</h3>
+<h3>Key Achievements</h3>
+<ul>
+	<li>Handle incoming calls or inquiries from prospective customers or clients </li>
+	<li>Assists customers effectively by solving customer disputes</li>
+  <li>Develop, implement and manage our social media strategy</li>
+	<li>Monitor SEO and user engagement and suggest content optimization</li>
+</ul>
+<h3 style={{ fontSize:"25px"}}>SLP Groups (Lagos): August 2018 – August 2019</h3>
+<h3>Job title: customer care officer (SIWES)</h3>
+<h3>Key Achievements</h3>
+<ul>
+	<li>Resolved an average of 350 inquiries in any given week and consequently met performance benchmarks in all areas (speed, accuracy, volume) </li>
+	<li>Manage upset customers, and resolve conflict situations</li>
+  <li>Helped the company attain the highest customer service ranking</li>
+	<li>Deliver outstanding services</li>
+</ul>
 <h2> CONTACT ME </h2>
 <p> contact me via </p>
 <a href='https://www.linkedin.com/in/omobolagee/' ><img className='img' src={linkedin} alt='linkedin icon'></img></a>
