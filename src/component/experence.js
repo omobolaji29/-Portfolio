@@ -17,7 +17,7 @@ function Experience() {
          <button> CSS </button>
          <button> JAVASCRIPT </button>
          <button> REACTJS  </button>
-         <button> DIGITAL MARKETING  </button>
+         <button> SOCIAL MEDIA MARKETING  </button>
          <button> SCRUM </button>
          <button> BOOTSTRAP </button>
          <button> WORDPRESS</button>
